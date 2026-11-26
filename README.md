@@ -3,6 +3,7 @@
 A hybrid approach combining NLP vectorization and stylistic feature fusion using scikit-learn pipelines.
 
 **Author:** Swayam Shakya
+
 **Co-author:** Bibek Khadka
 
 ## Folder contents

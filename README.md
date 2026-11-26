@@ -69,4 +69,4 @@ Several reviews can be checked at once with `check_reviews([...])`, which return
 
 ## License
 
-Swayam Shakya (2026) [MIT](https://github.com/requiemdoomed/SynthLens?tab=MIT-1-ov-file#) License
+Swayam Shakya (2026) Co-Author: Bibek Khadka (2026) [MIT](https://github.com/requiemdoomed/SynthLens?tab=MIT-1-ov-file#) License

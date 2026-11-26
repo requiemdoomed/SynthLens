@@ -22,8 +22,6 @@ figures/               every figure from the notebook as a PNG, ready for the re
 
 Run the notebook from the top. From Section 17 on, some cells delete objects from earlier sections to save memory, so re-running one of those cells on its own can fail; restart the kernel and run all cells instead.
 
-The notebook took between about 85 and 105 minutes on a 2-core cloud machine, mostly in the grid searches (Section 10), Part C and Section 17. Section 17 is the most memory-hungry part (the Python process peaked at about 5.7 GB), so 8 GB of RAM or more is recommended.
-
 `N_JOBS` in the first code cell sets how many models are trained in parallel. It is set to 2, the value used for every reported result. Each parallel job holds its own copy of the data, so on a computer with 16 GB of RAM or more you can raise it to 4 to finish sooner; the results stay the same.
 
 **Library versions.** Use a recent Python 3 installation. The minimum library versions are listed in `requirements.txt`; the notebook was tested without errors on both those minimum versions and current releases. With older library releases, the linear models give the same results to three or four decimal places, but the random forest (Section 10) can differ by about a point, because its implementation has changed over time.

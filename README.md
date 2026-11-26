@@ -67,6 +67,6 @@ Section 19 of the notebook turns the two strongest detectors into a simple check
 
 Several reviews can be checked at once with `check_reviews([...])`, which returns a table. The checker is a screening aid: very short reviews, text from newer models and AI-polished human reviews are the main sources of mistakes.
 
-## License and Copyright
+## License
 
-Swayam Shakya (2026)
+Swayam Shakya (2026) MIT License

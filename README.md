@@ -5,7 +5,8 @@ A hybrid approach combining NLP vectorization and stylistic feature fusion using
 **Author:** [Swayam Shakya](https://github.com/requiemdoomed)
 **Co-author:** [Bibek Khadka](https://github.com/itsdwv-byte)
 
-## Folder contents
+## Folder content
+
 
 ```
 SynthLens.ipynb        the full project notebook (already executed, with all outputs and comments

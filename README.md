@@ -2,9 +2,8 @@
 
 A hybrid approach combining NLP vectorization and stylistic feature fusion using scikit-learn pipelines.
 
-**Author:** Swayam Shakya
-
-**Co-author:** Bibek Khadka
+**Author:** [Swayam Shakya]!{https://github.com/requiemdoomed}
+**Co-author:** [Bibek Khadka]!{https://github.com/itsdwv-byte}
 
 ## Folder contents
 

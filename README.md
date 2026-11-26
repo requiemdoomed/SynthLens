@@ -8,8 +8,7 @@ A hybrid approach combining NLP vectorization and stylistic feature fusion using
 ## Folder contents
 
 ```
-SynthLens.ipynb        the full project notebook (already executed, with all outputs; short code comments explain
-                       each step, and the full discussion is in the project report)
+SynthLens.ipynb        the full project notebook (already executed, with all outputs and comments
 requirements.txt       the libraries needed to run the notebook
 data/                  the CSV files used (see "Data" below)
 figures/               every figure from the notebook as a PNG, ready for the report

@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Original MAGE files (about 400 MB); the notebook downloads them again if needed
+data/mage/
+
+# Half-written cache files left by an interrupted run
+*.part
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

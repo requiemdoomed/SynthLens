@@ -66,3 +66,7 @@ Section 19 of the notebook turns the two strongest detectors into a simple check
 * **Detector 2** (modern generators, GPT-4 style): the SynthLens+ model trained on AiGen-FoodReview.
 
 Several reviews can be checked at once with `check_reviews([...])`, which returns a table. The checker is a screening aid: very short reviews, text from newer models and AI-polished human reviews are the main sources of mistakes.
+
+## License and Copyright
+
+Swayam Shakya (2026)

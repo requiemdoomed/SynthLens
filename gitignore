@@ -1,6 +1,12 @@
 # Jupyter
 .ipynb_checkpoints/
 
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
 
 # Original MAGE files (about 400 MB); the notebook downloads them again if needed
 data/mage/
